@@ -45,6 +45,7 @@
 	<div id="page-wrap">
 		
 		<header>Сука тест</header>
+		<header>Сука тест 2ы</header>
 
 		<div id="header">
 			<h1><a href="<?php echo get_option('home'); ?>/"><?php bloginfo('name'); ?></a></h1>
